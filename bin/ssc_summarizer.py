@@ -51,7 +51,7 @@ Key questions
 '''
 Never step out of this structure!
 Another GPT instance will use these bullet points to create a more concise summary later. 
-Always to the author as Scott! Never refer to him as "the author"!
+Always refer to the author as Scott! Never refer to him as "the author"!
 Remember: write only in bullet points! Don't forget! Post:
 """
 
