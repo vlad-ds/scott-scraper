@@ -1,0 +1,12 @@
+{
+    "title": "Beware Regional Scatterplots",
+    "date": "April 2, 2016",
+    "links": [
+        "https://slatestarcodex.com/2016/01/06/guns-and-states/",
+        "https://slatestarcodex.com/2016/03/23/the-price-of-glee-in-china/",
+        "https://slatestarcodex.com/2016/04/02/beware-regional-scatterplots/#comment-342209",
+        "https://slatestarcodex.com/2016/04/02/beware-regional-scatterplots/#comment-342220"
+    ],
+    "url": "https://slatestarcodex.com/2016/04/02/beware-regional-scatterplots/",
+    "summary": "Key ideas\n- Scatterplots are commonly used to visualize relationships between variables in different regions.\n- Confounding variables, such as income and race, can affect the interpretation of scatterplots.\n- In some cases, the apparent correlation between variables may be a coincidence.\n- Clustering can also affect the interpretation of scatterplots, as groups may show different correlations than the overall dataset.\n\nKey learnings\n- Control for confounding variables when interpreting scatterplots.\n- Look for patterns in clustering to identify potential confounding factors.\n- Be cautious when drawing causal conclusions from scatterplots.\n\nKey questions\n- What are the potential confounding variables in a given scatterplot?\n- Are there any clusters of data that are driving the apparent correlation?\n- How might different groupings affect the interpretation of the scatterplot?"
+}

@@ -1,0 +1,7 @@
+{
+    "title": "Google Correlate does not imply Google Causation",
+    "date": "February 16, 2013",
+    "links": [],
+    "url": "https://slatestarcodex.com/2013/02/16/google-correlate-does-not-imply-google-causation/",
+    "summary": "Key ideas\n- Google Correlate is a product that finds search terms correlated with a dataset.\n- It falls into two categories: obvious and nonsensical.\n- Diseases that don't have obvious patterns bring up results that are nonsensical and convincing-looking.\n- The state-by-state feature has weird results for heart attack and parasite load.\n- Google Correlate is not as powerful as it sounds.\n- It can be used for sanity checking and creating datasets.\n\nKey learnings\n- Google Correlate may not reveal deep connections between concepts.\n- It's a cheap hack for creating datasets.\n- It can be used for sanity checks to avoid confounding in studies.\n\nKey questions\n- What are some potential uses of Google Correlate?\n- How reliable is Google Correlate's correlation results?\n- What are the implications of confounding in studies?"
+}

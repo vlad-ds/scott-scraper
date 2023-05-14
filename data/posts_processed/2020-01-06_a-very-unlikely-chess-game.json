@@ -1,0 +1,29 @@
+{
+    "title": "A Very Unlikely Chess Game",
+    "date": "January 6, 2020",
+    "links": [
+        "https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/",
+        "https://slatestarcodex.com/2019/03/14/gwerns-ai-generated-poetry/",
+        "https://www.gwern.net/GPT-2-music",
+        "https://twitter.com/theshawwn?lang=en",
+        "https://t.co/DqC4WiPfHV",
+        "https://twitter.com/theshawwn/status/1212272510470959105?ref_src=twsrc%5Etfw",
+        "https://t.co/wWGpVu9ko6",
+        "https://t.co/8Bl2ijZiCZ",
+        "https://twitter.com/theshawwn/status/1212277698598453249?ref_src=twsrc%5Etfw",
+        "https://t.co/2XuH6iLaD5",
+        "https://twitter.com/theshawwn/status/1212619327347871744?ref_src=twsrc%5Etfw",
+        "https://t.co/3uyPaP9LHt",
+        "https://twitter.com/theshawwn/status/1212619328891314177?ref_src=twsrc%5Etfw",
+        "https://t.co/QQzhZJmgQ9",
+        "https://twitter.com/theshawwn/status/1213559429293060099?ref_src=twsrc%5Etfw",
+        "https://t.co/CpWrFvtnY2",
+        "https://twitter.com/theshawwn/status/1214013710173425665?ref_src=twsrc%5Etfw",
+        "https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/#comment-838464",
+        "https://lichess.org/sTuSsGYB",
+        "https://arxiv.org/abs/1911.08265",
+        "https://slatestarcodex.com/2019/02/28/meaningful/"
+    ],
+    "url": "https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/",
+    "summary": "Key ideas\n- GPT-2, a text prediction program, has been tested to play chess after being trained on chess games written in standard notation\n- GPT-2 relies on pattern-matching and struggles when play deviates from its expectations \n- GPT-2's strengths include good at openings while weaknesses include bad at invalid moves \n- There are ways to make GPT-2 much better by rewriting games to provide (state,action) pairs \n\nKey learnings\n- GPT-2 is more than just an essay generator but a general pattern-recognition program with text-based input and output channels \n- GPT-2 can learn how to play chess after being trained on a corpus of chess games in standard notation \n\nKey questions\n- Is any of the skills GPT-2 learned, such as chess, music, and poetry, meaningful or just impressive as a result of its pattern-matching abilities? \n- What other tasks could GPT-2 potentially be trained to do with text-based input and output channels?"
+}

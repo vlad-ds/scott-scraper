@@ -6,6 +6,10 @@ from ssc_scraper import link_to_id
 
 
 def process_posts():
+    """
+    Process the posts in data/posts and save them in data/posts_processed
+    :return:
+    """
     with open('data/ssc_links.json', 'r') as f:
         links = json.load(f)
 

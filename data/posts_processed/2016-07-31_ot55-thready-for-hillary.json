@@ -1,0 +1,10 @@
+{
+    "title": "OT55: Thready For Hillary",
+    "date": "July 31, 2016",
+    "links": [
+        "https://slatestarcodex.com/tag/open/?latest",
+        "https://slatestarcodex.com/2016/07/28/links-716-grad-div-and-url/#comment-390828"
+    ],
+    "url": "https://slatestarcodex.com/2016/07/31/ot55-thready-for-hillary/",
+    "summary": "Key ideas:\n- Scott is requesting users to not post controversial comments anonymously, as he IP bans anonymous accounts easily.\n- He is considering banning anonymous commenting altogether due to trouble with spam.\n- Scott is trying to figure out how to teach Akismet to avoid marking good, frequent posters as spambots.\n- He is trying to find ways to steer open thread conversation away from specific topics without banning them altogether.\n\nKey learnings:\n- Anonymity can lead to IP bans, and Scott is considering banning anonymous commenting altogether.\n- There are issues with Akismet detecting spambots, and it is possible that frequent commenters can get caught up in it as well.\n\nKey questions:\n- Can anyone think of ways to direct open thread conversation away from controversial topics without banning them altogether?\n- How can one teach Akismet to avoid marking frequent commenters as spambots?"
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Book Review: Reframing Superintelligence",
+    "date": "August 27, 2019",
+    "links": [
+        "https://humancompatible.ai/",
+        "https://openai.com/",
+        "https://ought.org/",
+        "https://www.fhi.ox.ac.uk/govai/",
+        "http://lcfi.ac.uk/",
+        "https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf",
+        "http://www.overcomingbias.com/2014/07/30855.html",
+        "https://wiki.lesswrong.com/wiki/Tool_AI",
+        "https://www.gwern.net/Tool-AI",
+        "https://www.lesswrong.com/posts/sizjfDgCgAsuLJQmm/reply-to-holden-on-tool-ai",
+        "https://slatestarcodex.com/2014/08/06/random-noise-is-our-most-valuable-resource/"
+    ],
+    "url": "https://slatestarcodex.com/2019/08/27/book-review-reframing-superintelligence/",
+    "summary": "Key ideas:\n- The field of AI goal alignment has matured, with competent institutions working on the problem.\n- Future AI may consist of a variety of specialized superintelligent services rather than general-purpose agents.\n- Superintelligent services would be safer and could help contain rogue AIs.\n- AI services may disproportionately empower negative aspects of society, making it important for AIs to optimize vague prosocial tasks as well.\n\nKey learnings:\n- The past ten years have seen AI goal alignment reach a level of maturity.\n- Future AI may not look like a general-purpose agent, but rather a collection of specialized superintelligent services.\n- Superintelligent services may provide a safer alternative to general-purpose superintelligent agents.\n- It is important to consider that optimizing objective criteria may disproportionately empower negative aspects of society.\n\nKey questions:\n- Is it easier to train services or agents, and at what point might agentic AI arise from this process?\n- Can active sampling strategies for decision-making be separated from agency in artificial intelligences?\n- What is the likelihood that a superintelligent paperclip-maximizing agent could be built using current technology?\n- How can AIs be trained to provide real value to users of services, as opposed to just optimizing objective criteria?"
+}

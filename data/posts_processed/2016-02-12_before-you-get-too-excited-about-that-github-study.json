@@ -1,0 +1,15 @@
+{
+    "title": "Before You Get Too Excited About That GitHub Study\u2026",
+    "date": "February 12, 2016",
+    "links": [
+        "https://news.ycombinator.com/item?id=11074587",
+        "https://peerj.com/preprints/1733v1.pdf",
+        "http://www.donotlink.com/i9h0",
+        "http://www.donotlink.com/i9gz",
+        "http://www.donotlink.com/i9gy",
+        "http://www.bbc.com/news/technology-35559439",
+        "https://peerj.com/questions/2002-do-you-have-data-on-the-gender-of-the-users-that/"
+    ],
+    "url": "https://slatestarcodex.com/2016/02/12/before-you-get-too-excited-about-that-github-study/",
+    "summary": "Key ideas:\n- Study on gender bias on pull request acceptance in open source projects was not peer-reviewed and conducted by undergraduate students.\n- Women actually get more pull requests accepted than men in the top ten programming languages.\n- Revealing a contributor's gender usually gives women a small advantage in pull request acceptance.\n- Men and women's acceptance rates decrease when gender is revealed, but women's rates decrease more than men's (though it's unclear if the difference is statistically significant).\n- Lower acceptance rates for women appear to mainly come from other women's rejections.\n\nKey learnings:\n- The media can easily twist research findings without proper evaluation and investigation.\n- Not all studies are peer-reviewed, and some may not have enough data analysis to support their conclusions.\n\nKey questions:\n- Why did the study not provide a study-wide analysis and account for possible confounders?\n- What would happen if the study provided all numbers for their graphs and data?\n- How can the scientific community work towards peer-reviewing research findings and educating the general public about proper journalism standards?"
+}

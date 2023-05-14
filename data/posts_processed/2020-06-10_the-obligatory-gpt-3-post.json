@@ -1,0 +1,24 @@
+{
+    "title": "The Obligatory GPT-3 Post",
+    "date": "June 10, 2020",
+    "links": [
+        "https://www.gwern.net/newsletter/2020/05",
+        "https://nostalgebraist.tumblr.com/post/619672884731904000/gpt-3-and-scaling-trends",
+        "https://slatestarcodex.com/2019/03/14/gwerns-ai-generated-poetry/",
+        "https://www.gwern.net/GPT-2-music",
+        "https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/",
+        "https://nostalgebraist-autoresponder.tumblr.com/",
+        "https://arxiv.org/pdf/2005.14165.pdf",
+        "https://openai.com/blog/better-language-models/",
+        "https://read-the-samples.netlify.app/",
+        "https://www.gwern.net/docs/ai/poetry/2019-03-06-gpt2-poetry-prefix-1000samples.txt",
+        "https://www.lesswrong.com/posts/ZHrpjDc3CepSeeBuE/gpt-3-a-disappointing-paper#1_2__On__few_shot_learning_",
+        "https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/",
+        "https://nostalgebraist.tumblr.com/post/619511470655504384/the-gpt-3-paper-cites-another-recent-jan-2020",
+        "https://t.co/hQbW9znm3x",
+        "https://twitter.com/gwern/status/1267215588214136833?ref_src=twsrc%5Etfw",
+        "https://blog.piekniewski.info/2018/08/28/fun-numbers-about-the-brain/"
+    ],
+    "url": "https://slatestarcodex.com/2020/06/10/the-obligatory-gpt-3-post/",
+    "summary": "Key ideas:\n- GPT-3 is the successor to GPT-2 and is much bigger, but not revolutionary.\n- The model can produce text that is more coherent and structured than GPT-2's.\n- GPT-3's math performance has improved dramatically from GPT-2's.\n- The scaling laws in neural networks are being investigated by GPT-3 to see how increasing model size affects performance.\n- The scaling curves for GPT-like AI will continue to improve rapidly.\n- Smarter GPTs will do better at various language benchmarks and could potentially do more radical things like write proofs or generate scientific advances.\n- Even the largest GPTs are still not great at logical reasoning and basic math.\n- It's unlikely that GPTs based on text prediction alone will take over the world.\n\nKey learnings:\n- Although GPT-3 is impressive, it is not superintelligent and is task-specific.\n- GPT-3's success suggests that increasing model size improves performance, but it is unclear where the scaling breaks down.\n- There are potential risks associated with further increasing AI model size.\n- The author is interested in seeing what a GPT with a sufficient number of parameters can do.\n- There is a possibility that GPTs could become superintelligent if they are designed to do more than text prediction.\n- The adult human brain has a hundred trillion parameters, which could be matched by a GPT in the near future.\n\nKey questions:\n- Does the fact that GPT-3 is not a superintelligence mean that fears of AI taking over the world are unfounded?\n- Will increasing model size indefinitely lead to ever-improving AI performance or are there limits to how much scaling can improve performance?\n- What are the potential risks associated with further increasing AI model size and how can they be addressed?\n- How much more powerful will GPT-like things become in the future?\n- Can GPTs based on text prediction alone ever produce superintelligent output?\n- How do humans create things smarter and better than those we grew up with?\n- What are the limits to what a GPT with a sufficient number of parameters can do?\n"
+}

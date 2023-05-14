@@ -1,0 +1,14 @@
+{
+    "title": "Book Review and Highlights: Quantum Computing Since Democritus",
+    "date": "September 1, 2014",
+    "links": [
+        "http://www.amazon.com/gp/product/0521199565/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0521199565&linkCode=as2&tag=slastacod-20&linkId=XDE4MZI7VGUILGSH",
+        "https://slatestarcodex.com/2013/06/30/the-lottery-of-fascinations/",
+        "https://slatestarcodex.com/2014/08/16/burdens/",
+        "http://www.scottaaronson.com/blog/?p=277",
+        "http://lesswrong.com/lw/jo/einsteins_arrogance/",
+        "https://slatestarcodex.com/2014/08/05/negative-creativity/"
+    ],
+    "url": "https://slatestarcodex.com/2014/09/01/book-review-and-highlights-quantum-computing-since-democritus/",
+    "summary": "Key ideas:\n- The author struggled to understand the book \"Quantum Computing Since Democritus\".\n- The book discusses God's obsession with enforcing rules about certain types of information and ties it to computational complexity theory.\n- The author highlights interesting, funny, or enlightening quotes from the book.\n- Anthropics and self-sampling assumptions (SSA) are related to the problem of generating a solution for NP-complete problems.\n\nKey learnings:\n- The book draws a connection between God's rules about information and computational complexity theory.\n- The author gained a basic understanding of the book but not a full understanding.\n- The author learned about the No-Cloning Theorem.\n- SSA predicts that, with overwhelming probability, they will pick a satisfying assignment.\n- Engaging skeptics can lead to new research ideas.\n\nKey questions:\n- How successful is Aaronson in tying computational complexity theory into areas such as philosophy?\n- How big would the rule book for the Chinese Room argument have to be to carry out an intelligent conversation in anything resembling real time?\n- Why was it necessary to perform experiments to learn about quantum mechanics?\n- How likely is it that Adam and Eve would be the first two observers, given that they have chosen an unsatisfying assignment?\n- How to generate good ideas?\n- How to deal with the anti-induction philosophy?\n"
+}

@@ -1,0 +1,25 @@
+{
+    "title": "SSC Journal Club: Cipriani On Antidepressants",
+    "date": "February 26, 2018",
+    "links": [
+        "http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32802-7/fulltext",
+        "http://www.newsweek.com/antidepressants-major-depressive-disorder-study-815415",
+        "https://www.reuters.com/article/us-health-antidepressants/study-seeks-to-end-antidepressant-debate-the-drugs-do-work-idUSKCN1G52XX",
+        "https://slatestarcodex.com/2014/07/07/ssris-much-more-than-you-wanted-to-know/",
+        "https://slatestarcodex.com/2018/02/26/ssc-journal-club-cipriani-on-antidepressants/#comment-605866",
+        "http://blogs.discovermagazine.com/neuroskeptic/2018/02/24/about-antidepressant-study/#.WpU57-eIbOg",
+        "http://www.thelancet.com/cms/attachment/2119023008/2088154696/mmc1.pdf",
+        "https://www.ncbi.nlm.nih.gov/pubmed/16199844?dopt=Abstract",
+        "https://slatestarcodex.com/2018/02/26/ssc-journal-club-cipriani-on-antidepressants/#comment-605843",
+        "http://bjp.rcpsych.org/content/178/2/129",
+        "http://www.ema.europa.eu/docs/en_GB/document_library/Summary_of_opinion_-_Initial_authorisation/human/000656/WC500089538.pdf",
+        "https://www.ncbi.nlm.nih.gov/pubmed/20020562",
+        "https://www.ncbi.nlm.nih.gov/pubmed/21830835",
+        "https://apophany.wordpress.com/2016/12/29/drug-review-clomipramine-anafranil/",
+        "https://link.springer.com/article/10.1007/BF00172884",
+        "https://www.ncbi.nlm.nih.gov/pubmed/6215443",
+        "https://slatestarcodex.com/2015/04/30/prescriptions-paradoxes-and-perversities/"
+    ],
+    "url": "https://slatestarcodex.com/2018/02/26/ssc-journal-club-cipriani-on-antidepressants/",
+    "summary": "Key ideas:\n- Cipriani et al's study meta-analyzes 522 RCT of antidepressants to determine which antidepressants are the most effective.\n- There is an ongoing debate on whether antidepressants are good enough to be worth the side effects (Kirsch's argument).\n- Cipriani uses a different statistic called \"odds ratio\" instead of Kirsch's preferred statistic called \"effect size\".\n- There are concerns about the efficacy of the conclusion, given that 78% of the studies cited are sponsored by pharmaceutical companies.\n- The top prescribed medications in the US are often side-effect heavy, but these negative effects are not always properly or accurately reported.\n- Online drug ratings, such as those found on websites like WebMD and Drugs.com, often reflect individual experiences rather than objective data.\n- Major international studies, such as the World Health Organization's Essential Medicines List, provide more reliable information on medication efficacy.\n\nKey learnings:\n- All SSRIs cluster together as the same, while unique ones with weird pharmacology stand out as especially good or especially bad.\n- Amitriptyline, the most effective antidepressant in the study, is widely agreed to be very good, but has many side effects that limit its use despite its impressive performance.\n- Reboxetine, the least effective antidepressant in this study, is widely known to have negative side effects.\n- Venlafaxine and desvenlafaxine are basically the same drug, minus a bunch of BS from the pharma companies trying to convince that desvenlafaxine is a super-new-advanced version that you should spend twenty times as much money on.\n- Clomipramine is old and canonical, so most of the times it gets studied are because some pharma company wants to prove their drug is at least as good as this well-known older drug.\n- It is important to consider the source and reliability of information when evaluating medication.\n- Online drug ratings may provide helpful anecdotal information, but they should not be relied on as the only source of information.\n- Major international studies provide more rigorous and objective evaluations of medication efficacy.\n\nKey questions:\n- How comparable are Kirsch and Cipriani's efforts?\n- How confident should we be in the conclusion given the concerns about efficacy due to the high percentage of studies sponsored by pharmaceutical industries?\n- Should we privilege common sense over empiricism and say Cipriani has done something wrong? Or should we privilege empiricism over common sense and conclude that the super-trivial differences between these chemicals have some outsized metabolic significance that makes a big clinical difference?\n- How can we ensure that medication side effects are reported properly and accurately?\n- To what extent should individual experiences be considered when evaluating medication efficacy?\n- How can we reconcile differing evaluations of medication efficacy, such as those found in online ratings versus international studies?\n"
+}

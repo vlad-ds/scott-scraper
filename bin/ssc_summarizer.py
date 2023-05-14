@@ -21,7 +21,11 @@ logging.basicConfig(
 
 
 def chatgpt(prompt: str) -> str:
-
+    """
+    Uses the chat endpoint of the GPT-3 API to generate a response to a prompt.
+    :param prompt:
+    :return:
+    """
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[
@@ -29,7 +33,7 @@ def chatgpt(prompt: str) -> str:
             {"role": "user", "content": prompt},
         ]
     )
-    # log token usage
+    # log token usage and expense
     usage = response["usage"]
     prompt_tokens = usage["prompt_tokens"]
     completion_tokens = usage["completion_tokens"]
@@ -57,6 +61,11 @@ Remember: write only in bullet points! Don't forget! Post:
 
 
 def summarize_post(url):
+    """
+    Summarizes a single post.
+    :param url:
+    :return:
+    """
     print(f"Summarizing post {url}")
     link_id = link_to_id(url)
 
@@ -90,6 +99,7 @@ def summarize_post(url):
     post_text = post_data['content']
 
     if tokens < 3000:
+        # post is short enough to summarize in one go
         prompt = prompt_post_chunk + post_text
         sleep(1)
         summary = chatgpt(prompt)
@@ -123,6 +133,11 @@ def summarize_first_pass():
 
 
 def consolidate_summary(link_id: str):
+    """
+    Consolidates a summary that was split into multiple files.
+    :param link_id:
+    :return:
+    """
 
     if not os.path.exists(f"data/summaries/{link_id}"):
         print("Summary not found.")
@@ -165,6 +180,12 @@ def consolidate_all_summaries():
 
 
 def summarize_final(link_id: str):
+    """
+    Finalizes a summary by removing duplicates and consolidating bullet points.
+    Note: I ended up not using this because the result was too compressed.
+    :param link_id:
+    :return:
+    """
 
     consolidated_path = f"data/summaries/{link_id}/summary_consolidated.txt"
     final_path = f"data/summaries/{link_id}/summary_final.txt"

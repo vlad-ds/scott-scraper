@@ -1,0 +1,11 @@
+{
+    "title": "Working With Google Trends",
+    "date": "November 1, 2018",
+    "links": [
+        "https://medium.com/@sumdepony/internet-searches-increasingly-favour-the-left-over-the-right-wing-of-politics-8122f92fcd9f",
+        "https://medium.com/@sumdepony/googling-habits-suggest-we-may-be-getting-more-anxious-ae317e774820",
+        "https://medium.com/@pewresearch/using-google-trends-data-for-research-here-are-6-questions-to-ask-a7097f5fb526"
+    ],
+    "url": "https://slatestarcodex.com/2018/11/01/working-with-google-trends/",
+    "summary": "Key ideas \n- Google Trends can be a useful tool for researching broader trends, but it has limitations.\n- Using individual keywords may not give you an accurate analysis of the broader trend.\n- Averaging large numbers of related keywords may help, but it can also cause issues.\n- Factor analysis can help in generating new theories and intuitions.\n- The sawtooth pattern in search queries may help determine student queries.\n\nKey learnings \n- Averaging large numbers of related keywords would help eliminate noise and spikes in single keywords analysis. \n- Factor analysis can provide a more comprehensive view of how different keywords correspond to each other. \n- Search data of individual keywords may not offer an accurate perception of the broader trend.\n\nKey questions \n- Can factor analysis help eliminate temporal autocorrelation when analyzing multiple search queries?\n- Do search terms with the sawtooth pattern and troughs during school vacation reflect student searches?\n- How can a general decline in intellectual interest in the internet affect keyword search results?"
+}

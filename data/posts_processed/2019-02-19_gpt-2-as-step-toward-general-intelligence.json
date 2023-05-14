@@ -1,0 +1,18 @@
+{
+    "title": "GPT-2 As Step Toward General Intelligence",
+    "date": "February 19, 2019",
+    "links": [
+        "https://slatestarcodex.com/2019/02/18/do-neural-nets-dream-of-electric-hobbits/",
+        "https://slatestarcodex.com/2019/02/18/do-neural-nets-dream-of-electric-hobbits/",
+        "https://brilliantmaps.com/westeros/",
+        "https://slatestarcodex.com/2014/08/06/random-noise-is-our-most-valuable-resource/",
+        "https://twitter.com/JanelleCShane/status/1096416241516974081",
+        "http://antinegationism.tumblr.com/post/182820027081/antinegationism-twocubes-the-odd-thing-is",
+        "https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf",
+        "https://www.poetryfoundation.org/poems/49303/howl",
+        "https://slatestarcodex.com/2019/02/18/do-neural-nets-dream-of-electric-hobbits/",
+        "http://unsongbook.com/"
+    ],
+    "url": "https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/",
+    "summary": "Key ideas:\n- GPT-2 is a machine learning model that can build concepts from human-written text and generate new text based on those concepts.\n- The model has demonstrated abilities in counting, acronymizing, translating languages, and summarizing text, although it is not perfect at any of them.\n- The author argues that humans and GPT-2 alike blend experience into a \"slurry\" to create something new, with the difference being the level of fineness and spices added.\n- GPT-2 learned to count and acronymize words, and can predict the next word in text with high accuracy.\n- GPT-2-like processes are closer to human thinking than previously thought.\n- GPT-2 works like the brain, learning all sorts of things without guidance.\n- Prediction is the key to learning, and GPT-2 can learn any pattern if given enough training data and computational resources.\n- AGI is not impossible and can emerge from current work with unexpected abilities.\n\nKey learnings:\n- GPT-2 can develop specific faculties or skills naturally from its pattern recognition and word prediction ability.\n- The model does not have deep understandings or reasoning abilities like humans (yet), but it can learn and improve with more training data and computational resources.\n- The model's abilities are not programmed in, but rather emerge from its training data and prompt instructions.\n- GPT-2 is capable of learning patterns without explicit guidance, which shows the value of unsupervised learning.\n- Prediction is an important ability for an AGI, as it allows for the learning of any pattern.\n- The limits of language determine the limits of our understanding of reality.\n- The development of AGI is not impossible, but it will require significantly more capabilities than current AI models possess.\n\nKey questions:\n- Can GPT-2 develop further abilities or faculties beyond what it has demonstrated so far?\n- How do humans compare to GPT-2 in terms of blending experience and creating something new?\n- Are there potential ethical concerns with GPT-2's ability to generate convincing fake text?\n- How will AGI be able to learn from limited datasets with limited computational resources?\n- What does it mean for an AI to have a model of what it means to act in the world?\n- What other capabilities would AGI require beyond the ones possessed by GPT-2?\n"
+}

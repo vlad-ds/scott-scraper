@@ -1,0 +1,19 @@
+{
+    "title": "Notes From The Asilomar Conference On Beneficial AI",
+    "date": "February 6, 2017",
+    "links": [
+        "https://futureoflife.org/bai-2017/",
+        "https://en.wikipedia.org/wiki/Mathematical_universe_hypothesis",
+        "http://economics.mit.edu/files/12154",
+        "http://www.businessinsider.com/nobel-economist-angus-deaton-on-how-robotics-threatens-jobs-2016-12",
+        "http://www.npr.org/sections/alltechconsidered/2016/05/06/477033781/from-coal-to-code-a-new-path-for-laid-off-miners-in-kentucky",
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7513",
+        "https://slatestarcodex.com/2015/05/29/no-time-like-the-present-for-ai-safety-work/",
+        "http://www.wsj.com/articles/ai-program-vanquishes-human-players-of-go-in-china-1483601561?mod=social_content_enginlife",
+        "http://petrl.org/",
+        "http://www.people.virginia.edu/~tdw/nisbett&wilson.pdf",
+        "https://futureoflife.org/ai-principles/"
+    ],
+    "url": "https://slatestarcodex.com/2017/02/06/notes-from-the-asilomar-conference-on-beneficial-ai/",
+    "summary": "Key ideas:\n- The Asilomar Conference on Beneficial AI helped normalize AI safety research and create common knowledge.\n- Economists at the conference were largely convinced of the reality of technological unemployment.\n- Cutting-edge AI goal alignment research includes the idea of inverse reinforcement learning.\n- AlphaGo's success and new strategies have implications for grading human communities and finding optimal play.\n- Transparency in machine learning algorithms is a problem that scales with AI size and needs to be addressed.\n- The Future of Life Institute held a conference about the risks and benefits of AI.\n- At the conference, participants discussed and debated principles for the development of beneficial AI.\n- Different participants had different reactions to the principles.\n\nKey learnings:\n- There is a need for early study and incorporation of good ideas to mitigate AI risk.\n- AIs treating the reward signal as information about a reward function may resist wireheading and not be naturally resistant to being turned off.\n- Existing AIs could help determine human values for inverse reinforcement learning.\n- The potential AI arm race suggests a need for both international cooperation and regulation.\n- There are moral principles that can guide the development of beneficial AI.\n- Engaging in reasonable debate can lead to a clearer understanding of these principles.\n- Different people may have different reactions and attitudes towards the risks and benefits of AI.\n\nKey questions:\n- How can humans ensure that AIs approximate human morality accurately?\n- What is the fundamental difference between the neurons in our brain and other networks in terms of transparency?\n- How can transparency in machine learning algorithms be improved at scale?\n- What is the best way to ensure safety when two competing teams are equally close to AI superintelligence?\n- What are some specific moral principles that can guide the development of beneficial AI?\n- How can we encourage more productive and reasonable debate around the risks and benefits of AI?\n- What are some common attitudes towards AI risks and benefits, and how might we address disagreements or concerns?\n"
+}

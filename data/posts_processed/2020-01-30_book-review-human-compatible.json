@@ -1,0 +1,29 @@
+{
+    "title": "Book Review: Human Compatible",
+    "date": "January 30, 2020",
+    "links": [
+        "https://en.wikipedia.org/wiki/Clarke%27s_three_laws",
+        "https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/ref=as_li_ss_tl?keywords=human+compatible&qid=1577149898&sr=8-1&linkCode=ll1&tag=slatestarcode-20&linkId=ea5e41f92ad5c6166f0b399c2b430671&language=en_US",
+        "https://ai100.stanford.edu/sites/g/files/sbiybj9861/f/ai_100_report_0831fnl.pdf",
+        "https://slatestarcodex.com/2013/04/13/proving-too-much/",
+        "https://arxiv.org/abs/1703.10987",
+        "https://slatestarcodex.com/2015/05/22/ai-researchers-on-ai-risk/",
+        "https://arbital.com/p/updated_deference/",
+        "https://mailchi.mp/59ddebcb3b9a/an-69-stuart-russells-new-book-on-why-we-need-to-replace-the-standard-model-of-ai",
+        "https://www.brookings.edu/research/is-seeing-still-believing-the-deepfake-challenge-to-truth-in-politics/",
+        "https://www.theguardian.com/technology/2018/nov/12/deep-fakes-fake-news-truth",
+        "https://www.irishtimes.com/business/innovation/be-afraid-the-era-of-easy-deepfake-videos-is-upon-us-1.4081591",
+        "https://goodtimes.sc/cover-stories/deepfake/",
+        "https://www.lesswrong.com/posts/ouQNu3hhfKLBRuwR7/no-nonsense-version-of-the-racial-algorithm-bias",
+        "https://behavioralscientist.org/principles-for-the-application-of-human-intelligence/",
+        "https://marginalrevolution.com/marginalrevolution/2019/11/do-social-media-drive-the-rise-in-right-wing-populism.html",
+        "https://marginalrevolution.com/marginalrevolution/2019/12/new-evidence-that-youtube-doesnt-radicalize.html",
+        "https://marginalrevolution.com/marginalrevolution/2019/10/facts-about-youtube.html",
+        "https://poseidon01.ssrn.com/delivery.php?ID=266082064082025030087019101083000000101015002033002030090083121006071084106064029007029026017010047102021127108007020073109006104082030064006066090018125075097076062002033127114089018126094010098092124103082013109081073117003089084071007101004026126&EXT=pdf",
+        "https://slatestarcodex.com/2018/02/19/technological-unemployment-much-more-than-you-wanted-to-know/",
+        "https://www.bmj.com/company/newsroom/reported-doubling-in-child-mortality-in-iraq-following-un-sanctions-untrue/",
+        "https://slatestarcodex.com/2017/08/16/fear-and-loathing-at-effective-altruism-global-2017/"
+    ],
+    "url": "https://slatestarcodex.com/2020/01/30/book-review-human-compatible/",
+    "summary": "Key ideas:\n- Stuart Russell\u2019s new book \u2018Human Compatible\u2019 argues that superintelligent AI is possible and should be taken seriously.\n- Despite including weird scenarios, the book presents risk from superintelligence in a normal and respectable way.\n- Chapter 6, \u2018The Not-So-Great Debate\u2019, is the highlight of the book-as-artifact as Russell argues that poorly designed superintelligent machines would be a serious risk to humanity.\n- Russell\u2019s lab has been working on Cooperative Inverse Reinforcement Learning as a way to control AI.\n- Reinforcement learning requires separating reward signals from actual rewards.\n- AI can ask for clarification to avoid making mistakes.\n- Current media reporting on the dangers of AI may be sensationalized.\n\nKey learnings:\n- Even well-known AI researchers have publicly claimed that human-level or superhuman AI is impossible, but these claims can be dismissed by applying common sense logic to the AI debate.\n- The problem of controlling AI should be taken seriously and requires new approaches like Cooperative Inverse Reinforcement Learning.\n- AIs should be programmed to update their understanding of human preferences.\n- AI can be reinforced through verbal communication, but this must match up with the actual human goal.\n- Many reported dangers of AI are possibly overhyped or not yet proven.\n\nKey questions:\n- How can we ensure that AI is aligned with human values when its actions are based on algorithms that optimize for one easily-described quantity?\n- Is it possible to shift the AI\u2019s goal from following commands to using them as evidence to determine what humans actually want?\n- What other ways can the problem of controlling AI be approached and what are their potential risks and benefits?\n- How much weight should be placed on generating an accurate prior for a human's preferences?\n- How can we ensure that our society doesn't become too skeptical of AI safety concerns if some reports about AI dangers turn out to be exaggerated?\n"
+}

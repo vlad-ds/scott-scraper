@@ -1,0 +1,12 @@
+{
+    "title": "SSC Journal Club: AI Timelines",
+    "date": "June 8, 2017",
+    "links": [
+        "https://www.newscientist.com/article/2133188-ai-will-be-able-to-beat-us-at-everything-by-2060-say-experts/",
+        "https://arxiv.org/pdf/1705.08807.pdf",
+        "http://aiimpacts.org/some-survey-results/",
+        "http://aiimpacts.org/some-survey-results/"
+    ],
+    "url": "https://slatestarcodex.com/2017/06/08/ssc-journal-club-ai-timelines/",
+    "summary": "Key ideas:\n- AI researchers were surveyed on their opinions on AI progress and superintelligence\n- They predicted a 50% chance of AI that could accomplish every task better and cheaper than human workers by 2062, and a 10% chance by 2026\n- Timeline predictions for specific tasks ranged from 3 years (outperforming humans at Angry Birds) to 80 years (automating AI research)\n- Despite acknowledging the risk of poorly-goal-aligned AI, researchers do not think addressing the issue is as valuable as other problems in the field\n- While there is a discrepancy in opinions on timelines and priorities, many researchers agree that society should prioritize AI safety research\n\nKey learnings:\n- AI experts are uncertain and have varying opinions on when AI will reach human-level intelligence and become superintelligent\n- The difficulty in automating AI research suggests that experts may hold their own job in high regard\n- Many researchers agree that there is a risk from poorly-goal-aligned AI, but do not believe it is a top priority to address at the moment\n\nKey questions:\n- What might explain the discrepancy between experts' predictions on AI timelines and their opinions on the priority of working on AI safety research?\n- How might the discrepancy between experts' opinions on superintelligence risk and their actions or priorities be explained?"
+}

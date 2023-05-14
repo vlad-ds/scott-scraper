@@ -1,0 +1,13 @@
+{
+    "title": "Translating Predictive Coding Into Perceptual Control",
+    "date": "March 20, 2019",
+    "links": [
+        "https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/",
+        "https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/",
+        "https://archive.org/stream/BehaviorTheControlOfPerception/Behavior%20the%20Control%20of%20Perception_djvu.txt",
+        "https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/",
+        "https://medium.com/@solopchuk/tutorial-on-active-inference-30edcf50f5dc"
+    ],
+    "url": "https://slatestarcodex.com/2019/03/20/translating-predictive-coding-into-perceptual-control/",
+    "summary": "Key ideas:\n- The free energy principle says that all life is driven by the imperative to reduce the gulf between expectations and sensory inputs.\n- Perceptual control theory and free energy/predictive coding are fundamentally the same paradigm.\n- The author provides a glossary to help understand the concepts of prediction, expectation, set point, reference level, prediction error, surprise, active inference, and behavior as control of perception.\n- Perceptual control theory uses more intuitive terms than free energy/predictive coding, which can be confusing.\n\nKey learnings:\n- Free energy/predictive coding grew out of an account of world-modeling, while perceptual control theory explains movement, motivation, and desire.\n- FE/PC terminology should be kept, but PCT terminology can be taught as a learning aid.\n\nKey questions:\n- How come everyone uses the FE/PC formulation instead of the PCT formulation since PCT has more advantages?\n- Is Powers' explanation of world-modeling the same as FE/PC?\n- Could it be possible to construct a PCT look at world-modeling?"
+}

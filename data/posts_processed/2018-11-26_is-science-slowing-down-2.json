@@ -1,0 +1,19 @@
+{
+    "title": "Is Science Slowing Down?",
+    "date": "November 26, 2018",
+    "links": [
+        "https://web.stanford.edu/~chadj/IdeaPF.pdf",
+        "https://nintil.com/2016/04/25/no-great-technological-stagnation/",
+        "http://radar.oreilly.com/2012/08/data-mining-the-literature.html",
+        "https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price#Scientific_contributions",
+        "https://en.wikipedia.org/wiki/Hennig_Brand#Alchemy",
+        "https://en.wikipedia.org/wiki/Marathon#World_records_and_world's_best",
+        "http://mason.gmu.edu/~rhanson/longgrow.html",
+        "https://slatestarcodex.com/2017/10/15/were-there-dark-ages/",
+        "http://lukemuehlhauser.com/industrial-revolution/",
+        "https://arxiv.org/pdf/1705.08807.pdf",
+        "https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/"
+    ],
+    "url": "https://slatestarcodex.com/2018/11/26/is-science-slowing-down-2/",
+    "summary": "Key ideas:\n- Bloom, Jones, Reenen & Webb (2018) measured the rate of progress in technological fields over the past century and the number of researchers in the field over the same period, and found that despite an exponential increase in researchers, progress has remained constant.\n- BJRW argued that progress should scale with the number of researchers, and when they found this wasn\u2019t the case, that progress might be harder than we previously thought.\n- There are three potential explanations for this phenomenon: (1) only the best researchers in a field actually make progress, and the best researchers are already in a field, (2) certain features of the modern academic system have lowered productivity, or (3) all the low-hanging fruit has already been picked.\n- Constant growth rates in response to exponentially increasing inputs is the null hypothesis.\n- AI researchers predict that AIs will start being able to do science in about thirty years, and will exceed the productivity of human researchers in every field shortly afterwards.\n- The effectiveness of academic conferences in promoting research and knowledge.\n- The potential limitations of scientific knowledge and its effects on society.\n- The idea of \"Gods Of Straight Lines\" and their potential impact on human progress.\n\nKey learnings:\n- Constant progress in scientific fields in response to exponentially increasing inputs should be the null hypothesis based on trends over the past century.\n- The three potential explanations for why progress has slowed down in some fields today are: a small number of researchers are responsible for most progress, the modern academic system has lowered productivity, and there is no low-hanging fruit left.\n- The importance of questioning the effectiveness of traditional academic practices.\n- The potential dangers of scientific discovery and its effects on society.\n- The need for continued study and examination of the impact of scientific progress.\n\nKey questions:\n- Isn't it unfair to compare percent increase in transistors with absolute increase in transistor scientists?\n- Why aren\u2019t researchers maintaining a constant level of output as measured in discoveries?\n- What would happen if a concerted effort were made to \"fix\" the \"problem\" indicated by BJRW's trends?\n- Doesn't the author's position imply that the scientists at Intel should give up and let the Gods Of Straight Lines do the work?\n- Why has progress slowed down in some fields today?\n- Are traditional academic practices, such as conferences, truly effective in promoting research and knowledge?\n- What is the potential impact of scientific progress on society and how can it be harnessed for the greater good?\n- How can we assess the impact of \"Gods Of Straight Lines\" on human progress and how can we mitigate any negative effects?\n"
+}

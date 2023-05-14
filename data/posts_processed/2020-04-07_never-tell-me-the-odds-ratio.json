@@ -1,0 +1,13 @@
+{
+    "title": "Never Tell Me The Odds (Ratio)",
+    "date": "April 7, 2020",
+    "links": [
+        "http://itre.cis.upenn.edu/~myl/languagelog/archives/004767.html",
+        "https://sci-hub.tw/10.1080/03610911003650383",
+        "https://stats.stackexchange.com/questions/352586/convert-odds-ratio-to-cohens-d-taking-rate-of-prevalence-into-account",
+        "https://www.medcalc.org/calc/relative_risk.php",
+        "https://www.theanalysisfactor.com/the-difference-between-relative-risk-and-odds-ratios/"
+    ],
+    "url": "https://slatestarcodex.com/2020/04/07/never-tell-me-the-odds-ratio/",
+    "summary": "Key ideas\n- Odds ratios can be misleading in terms of the actual effect size of a treatment or intervention.\n- Chen's How Big is a Big Odds Ratio? Interpreting the Magnitudes of Odds Ratios in Epidemiological Studies, offers a way to convert odds ratios into effect sizes.\n- A quick heuristic for this conversion is to ignore prevalence and use [ln(odds ratio)]/1.81.\n\nKey learnings\n- Odds ratios should not be relied upon to gauge the magnitude of an effect.\n- Effect sizes are a better metric for comparing different studies or treatments.\n- A heuristic formula can be used to convert odds ratios into effect sizes.\n\nKey questions\n- What other measures can be used to accurately gauge the size of an effect?\n- Why is there still a reliance on odds ratios in reporting study results?\n- How can researchers ensure that their results accurately quantify the effects of a treatment or intervention?"
+}

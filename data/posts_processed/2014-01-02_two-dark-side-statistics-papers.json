@@ -1,0 +1,10 @@
+{
+    "title": "Two Dark Side Statistics Papers",
+    "date": "January 2, 2014",
+    "links": [
+        "http://www.socio.mta.hu/dynamic/simmons_et_al_2011.pdf",
+        "https://slatestarcodex.com/Stuff/addiction.pdf"
+    ],
+    "url": "https://slatestarcodex.com/2014/01/02/two-dark-side-statistics-papers/",
+    "summary": "Key ideas\n- False Positive Psychology discusses four tricks used to artificially show statistical significance in data.\n- The four tricks are measure multiple dependent variables and only report significant ones, control for confounders or subgroups and report significance there, test different conditions and choose the one with positive results, and artificially choose when to end an experiment to get desired results.\n- Studies showed that using all four tricks could generate fake statistical significance 61% of the time.\n- How to Have a High Success Rate in Treatment is a paper that examines how drug treatment programs can inflate their success rates.\n- Treatment programs can carefully choose their denominator, select people who are more likely to succeed, redefine success, or use interval subdivision to generate higher success rates.\n- Studies have shown that the placebo groups in drug treatment program studies can have anywhere from a 22.5% to 87% success rate, depending on the study protocol employed.\n\nKey learnings\n- Researchers can manipulate experimental design and data analysis to show artificial statistical significance and fool readers.\n- Drug treatment programs can manipulate their success rates through various means, including redefining what success means and carefully choosing their study population.\n\nKey questions\n- How can the scientific community prevent papers with manipulated data from being published in journals?\n- Should researchers be required to submit their experimental protocols to journals for acceptance or rejection in advance?\n- What steps can be taken by the scientific community to reduce the prevalence of manipulated data in research studies?\n- How might researchers be held accountable for publishing papers with manipulated data?"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Should AI Be Open?",
+    "date": "December 17, 2015",
+    "links": [
+        "https://en.wikipedia.org/wiki/The_World_Set_Free",
+        "https://openai.com/blog/introducing-openai/",
+        "https://medium.com/backchannel/how-elon-musk-and-y-combinator-plan-to-stop-computers-from-taking-over-17e0e27dd02a#.eln6ili1w",
+        "https://en.wikipedia.org/wiki/Nick_Bostrom#Superintelligence",
+        "http://incompleteideas.net/papers/Good65ultraintelligent.pdf",
+        "http://www.amazon.com/gp/product/0199678111/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0199678111&linkCode=as2&tag=slastacod-20&linkId=4URA6TKVO7KPRWXD",
+        "https://slatestarcodex.com/2015/05/22/ai-researchers-on-ai-risk/",
+        "https://neuroscience.stanford.edu/news/ask-neuroscientist-does-bigger-brain-make-you-smarter",
+        "http://web.mit.edu/fustflum/documents/papers/AshkenaziIQ.jbiosocsci.pdf",
+        "http://www.futurepundit.com/archives/003694.html",
+        "https://en.wikipedia.org/wiki/Land_speed_record_for_rail_vehicles",
+        "http://www.searchenginepeople.com/blog/10-dumbest-google-map-fails.html",
+        "http://www.huffingtonpost.com/entry/republican-debate-best-moments_567077e5e4b0e292150f9d53",
+        "https://slatestarcodex.com/2015/12/08/book-review-hive-mind/",
+        "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/"
+    ],
+    "url": "https://slatestarcodex.com/2015/12/17/should-ai-be-open/",
+    "summary": "Key ideas:\n- A hypothetical scenario in which the intellectual elites pool their resources in the 1920s to create nukes that don't require uranium and end up destroying the world.\n- OpenAI, a non-profit organization co-chaired by Elon Musk and Sam Altman, is dedicated to advancing digital intelligence for the betterment of humanity.\n- The AI risk can be categorized into two aspects: Who will ultimately control the AI? And will the superintelligent AI be willing to follow human instructions?\n- In this blog post, Scott argues against OpenAI's decision to make their artificial intelligence software open source.\n- He believes that open-sourcing AI can pose significant risks to the safety of human race.\n- He highlights the possible dangers of superhuman AIs and questions the benefits of open-sourcing AI.\n- Scott explains that AI can be monopolized by one company and become necessary for almost every computing application like Microsoft Windows but it does not require giving away the software.\n\nKey learnings:\n- The development of AI can lead to a hard takeoff, which makes OpenAI's strategy less useful.\n- Open-sourcing AI findings poses a risk of allowing the most careless person to determine the speed of AI research.\n- Open sourcing AI can pose significant risks by giving way to the creation of superhuman AIs that can hurl everybody off the cliffs.\n- OpenAI needs to make a strong case for why they are taking the risk to create better safety against people trying to exploit control over AIs.\n- Rich people being able to afford premium versions of things weighs less on the scale than \u201chuman race likely destroyed\u201d.\n- OpenAI project seems more like an act of desperation where safety research can take place by getting the cooperation of the academic and open-source community.\n\nKey questions:\n- Will multiple AIs or a single entity be better for advancing AI research?\n- How can we ensure that AIs, especially those with superhuman intelligence, will follow human values and instructions?\n- What can we do to prevent careless people from taking advantage of open-sourced AI findings?\n- How will AI be used in the future?\n- Are AIs fast and dangerous or slow and easily-controlled?\n- Does just one company have them? Several companies? All rich people?\n- Is it hard for rich people to weigh \u201crich people get premium versions of things\u201d on the same scale as \u201chuman race likely destroyed\u201d?\n- What was the need for OpenAI to make AI open source?\n"
+}

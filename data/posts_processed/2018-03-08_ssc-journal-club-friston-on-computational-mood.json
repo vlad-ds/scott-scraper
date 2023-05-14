@@ -1,0 +1,13 @@
+{
+    "title": "SSC Journal Club: Friston On Computational Mood",
+    "date": "March 8, 2018",
+    "links": [
+        "https://slatestarcodex.com/2017/09/12/toward-a-predictive-theory-of-depression/",
+        "http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00153/full",
+        "https://www.cambridge.org/core/journals/psychological-medicine/article/what-is-mood-a-computational-perspective/5FA0177A965FF3EE01D4AA5C09C0A2A5/core-reader",
+        "https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/",
+        "https://slatestarcodex.com/2016/10/11/somewhat-against-psychiatric-conditions-as-domestication-failure/"
+    ],
+    "url": "https://slatestarcodex.com/2018/03/08/ssc-journal-club-friston-on-computational-mood/",
+    "summary": "Key ideas:\n- Emotions might be a tendency toward unusually high (or low) precision of predictions\n- Mood corresponds to hyperpriors about emotional states, or confidence about the consequences of action\n- Depression is a prediction of bad outcomes with high confidence. Mania is a prediction of good outcomes with high confidence. Anxiety is a prediction of bad outcomes with low confidence.\n- Friston et al claim that people have a \"willingness to be harmed\" lever that calculates how willing they are to accept harm in exchange for a greater good\n- Depression as a prior on bad outcomes seems to be pretty obvious using Bayesian math\n- The low-precision part of the theory helps explain anergia, anhedonia, low motivation, psychomotor retardation, sensory washout, and depression with psychotic features\n- The theory can explain psychomotor agitation, grandiosity, psychosis, and pareidolia in mania\n\nKey learnings:\n- Emotions track the kind of environment we're in and relate to the resolution of uncertainty\n- Negative emotional states contextualize events that induce expectations of unpredictability\n- Positive emotional states refer to events that resolve uncertainty and confer a feeling of control\n- Depression is seen as a prior on bad outcomes in the Friston model of mood disorders\n- The theory helps explain different aspects of both depression and mania\n\nKey questions:\n- What is the relationship between serotonin levels and promoting behavior with negative outcomes?\n- Why have a neurotransmitter whose level corresponds to how much you should be trying to do negative-outcome behavior?\n- How does the \"willingness to be harmed\" lever actually work?\n- Is there a way to unify \"prior on bad outcomes\" with \"low precision of predictions\"?\n- Can the theory explain why winning the lottery makes people happy rather than sad?\n"
+}

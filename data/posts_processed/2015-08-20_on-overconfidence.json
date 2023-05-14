@@ -1,0 +1,30 @@
+{
+    "title": "On Overconfidence",
+    "date": "August 20, 2015",
+    "links": [
+        "http://globalprioritiesproject.org/2015/08/quantifyingaisafety/",
+        "https://slatestarcodex.com/2015/08/16/links-815-linkety-split/#comment-228673",
+        "http://www.researchgate.net/profile/Baruch_Fischhoff/publication/230726569_Knowing_with_certainty_the_appropriateness_of_extreme_confidence/links/00b4952b854b29281c000000.pdf",
+        "http://www.thinkingbeyond.com/newsletters/PDFs/2014-07-22-Overconfidence.pdf",
+        "http://edge.org/conversation/the-myth-of-ai#26015",
+        "http://oecdinsights.org/2011/04/12/the-future-is-not-what-it-used-to-be/",
+        "https://en.wikipedia.org/wiki/Arthur_C._Clarke#Futurism",
+        "https://en.wikipedia.org/wiki/Clarke's_three_laws",
+        "https://www.youtube.com/watch?v=GYQrNfSmQ0M",
+        "http://www.nickbostrom.com/papers/survey.pdf",
+        "http://lesswrong.com/lw/19m/privileging_the_hypothesis/",
+        "https://slatestarcodex.com/2015/05/29/no-time-like-the-present-for-ai-safety-work/",
+        "http://arxiv.org/ftp/arxiv/papers/1103/1103.5672.pdf",
+        "https://slatestarcodex.com/2015/08/20/on-overconfidence/#comment-230448",
+        "http://www.scottaaronson.com/blog/?p=2410",
+        "https://slatestarcodex.com/2014/02/23/in-favor-of-niceness-community-and-civilization/",
+        "https://slatestarcodex.com/2013/12/29/the-spirit-of-the-first-amendment/\n",
+        "https://slatestarcodex.com/2013/03/17/not-just-a-mere-political-issue/",
+        "https://slatestarcodex.com/2015/07/22/freedom-on-the-centralized-web/",
+        "https://slatestarcodex.com/2013/12/28/a-comment-i-posted-on-what-would-jt-do/",
+        "https://slatestarcodex.com/2015/08/11/book-review-chronicles-of-wasted-time/",
+        "https://slatestarcodex.com/2013/06/09/all-debates-are-bravery-debates/"
+    ],
+    "url": "https://slatestarcodex.com/2015/08/20/on-overconfidence/",
+    "summary": "Key ideas:\n- People are overconfident in their ability to predict the future course of AI with high accuracy.\n- The estimated probability of 1/10,000 offered by some critics of the Global Priorities Project calculator is still overly confident.\n- Predicting the future course of AI is notoriously difficult and claims that a certain form of technological progress will not occur have a poor track record of success.\n- One-in-a-million confidence levels require a person to be able to write 27 War and Peace-sized books with similar predictions and only have one of the million be wrong.\n- Bayesian and frequentist statistics are the same thing, and \"one in a million\" level certainty translates to \"I expect to be wrong on only one of a million statements like this that I make.\"\n- People must learn to privilege hypotheses correctly and avoid making overly confident predictions.\n- People tend to be overconfident when assigning probabilities to events.\n- Overconfidence can lead to wrong estimates, especially when dealing with \"Knightian uncertainty\".\n- Aumann's Less-Than-Total-Disagreement Theorem proposes that rational agents shouldn't both end up with 99.9% confidence on opposite sides of the same problem.\n- A study of history can help mitigate overconfidence by showing how often people have been wrong in the past.\n- The saying that \"the majority is always wrong\" can be interpreted as meaning that in a world where everyone is overconfident, the majority will be wrong about which direction to move the probability distribution in.\n\nKey learnings:\n- People should be cautious about making predictions regarding the future course of AI and must avoid being too confident in their predictions.\n- A better understanding of formalizations of Occam's Razor is helpful in avoiding making overly confident predictions.\n- Be aware of your own overconfidence when assigning probabilities.\n- Consider the possibility of being wrong, especially when dealing with Knightian uncertainty.\n- Recognize that disagreement with someone who seems similarly intelligent and informed is a reason for caution, not a reason for doubling down.\n\nKey questions:\n- Why are people so overconfident when making predictions about the future course of AI?\n- How can people learn to privilege hypotheses correctly?\n- What is the best way to estimate the likelihood of AI risk, given that predicting the future course of AI is so difficult?\n- What are the potential consequences of overconfidence in decision-making?\n- How can we improve our ability to assign probabilities accurately?\n- What role does disagreement play in mitigating overconfidence?\n- How do cognitive biases influence our ability to evaluate the probability of events?\n"
+}

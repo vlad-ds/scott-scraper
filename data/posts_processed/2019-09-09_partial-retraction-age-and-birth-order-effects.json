@@ -1,0 +1,15 @@
+{
+    "title": "[Partial Retraction] Age Gaps and Birth Order Effects",
+    "date": "September 9, 2019",
+    "links": [
+        "https://www.lesswrong.com/posts/uZEeqmeFjs3nmawn7/age-gaps-and-birth-order-failed-reproduction-of-results",
+        "https://slatestarcodex.com/2019/05/14/age-gaps-and-birth-order-effects/",
+        "https://slatestarcodex.com/2019/05/14/age-gaps-and-birth-order-effects/",
+        "https://www.lesswrong.com/posts/YnXd7zfGGZfMD9QtA/age-gaps-and-birth-order-reanalysis",
+        "https://slatestarcodex.com/mistakes/",
+        "https://slatestarcodex.com/2019/07/09/survey-results-sexual-roles/",
+        "https://slatestarcodex.com/2019/07/09/survey-results-sexual-roles/"
+    ],
+    "url": "https://slatestarcodex.com/2019/09/09/partial-retraction-age-and-birth-order-effects/",
+    "summary": "Key ideas:\n- Two years ago, Scott found that firstborn children were overrepresented in SSC survey data.\n- Last year, Scott found that age gaps of more than seven years attenuated birth order effects almost completely.\n- Bucky replicates some of Scott's results on birth order and age gaps but finds some errors in Scott's analysis.\n- Bucky identifies a potential confounder which affects the results.\n- Bucky concludes that there is a constant, high birth order effect for age gaps less than 4-8 years.\n\nKey learnings:\n- Birth order effects exist in the SSC survey data.\n- Age gaps of more than seven years attenuate birth order effects.\n- It's important to double-check results to avoid errors.\n- Potential confounders should be considered when analyzing data.\n\nKey questions:\n- What is the effect of family size on birth order effects?\n- How does birth order effect vary by age gap?\n- What other potential confounders may affect birth order effects?\n- How can we further replicate and verify these results?"
+}

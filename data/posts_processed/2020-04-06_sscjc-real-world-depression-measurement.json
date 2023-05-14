@@ -1,0 +1,12 @@
+{
+    "title": "SSCJC: Real World Depression Measurement",
+    "date": "April 6, 2020",
+    "links": [
+        "https://en.wikipedia.org/wiki/PANDAS",
+        "https://panda.gsi.de/",
+        "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(19)30366-9/fulltext#figures",
+        "https://sci-hub.tw/10.1016/s2215-0366(19)30216-0"
+    ],
+    "url": "https://slatestarcodex.com/2020/04/06/sscjc-real-world-depression-measurement/",
+    "summary": "Key ideas:\n- PANDA (Prescribing ANtiDepressants Appropriately) is the largest non-pharma antidepressant trial ever conducted and is designed to mimic \u201cthe real world\u201d.\n- Measuring real-world efficacy is especially important for antidepressant research because past studies have failed to match up with common sense.\n- The study used patient-reported \u201cuncertainty\u2026about the possible benefit of an antidepressant\u201d to select participants.\n- The study showed only small to low-medium effect sizes for everything.\n- The study\u2019s finding of a 0.4 \u2013 0.5 effect size on patient response closely matches another study\u2019s finding of an 0.4 \u2013 0.5 effect size on depressed mood.\n\nKey learnings:\n- It is really hard to measure antidepressant outcomes and all endpoints conflict with each other.\n- Antidepressants do better on patient report than on depression tests.\n- Patients care a lot less about smaller symptoms and more about feeling happy again.\n- Targeted treatment with more typical vs. atypical depression could bring the effect size up.\n\nKey questions:\n- Can we really trust clinical trials that fail to match up with common sense?\n- How can we measure antidepressant outcomes more accurately?\n- Are our depression tests effective? How can we improve them?\n- How can we prescribe antidepressants more confidently?"
+}

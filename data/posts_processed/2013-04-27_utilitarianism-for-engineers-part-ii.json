@@ -1,0 +1,10 @@
+{
+    "title": "Utilitarianism for Engineers, Part II",
+    "date": "April 27, 2013",
+    "links": [
+        "http://healtheconomicsdev.tuftsmedicalcenter.org/cear2/search/search.aspx",
+        "http://squid314.livejournal.com/353323.html"
+    ],
+    "url": "https://slatestarcodex.com/2013/04/27/utilitarianism-for-engineers-part-ii/",
+    "summary": "Key ideas:\n- Tufts University has a searchable public database of utilities for various health outcomes.\n- The database doesn't seem very good and may be haphazardly combining QALYs and DALYs.\n- The author is curious about extending the database to non-health states.\n\nKey learnings:\n- Tufts University has a searchable public database of utilities for various health outcomes.\n\nKey questions:\n- Is there a fundamental impossibility in extending the database to non-health states?\n- Can the author create a utility measurement test for non-health states?"
+}

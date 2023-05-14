@@ -1,0 +1,11 @@
+{
+    "title": "Utility Weight Results",
+    "date": "April 30, 2013",
+    "links": [
+        "http://wiki.answers.com/Q/What_is_the_percent_distribution_of_first_letters_in_last_names_in_the_US",
+        "http://stattrek.com/online-calculator/binomial.aspx",
+        "https://slatestarcodex.com/Stuff/CHUM_data.csv"
+    ],
+    "url": "https://slatestarcodex.com/2013/04/30/utility-weight-results/",
+    "summary": "Key ideas\n- The survey results showed a striking imbalance in readers' last names.\n- The survey provided evidence that people are anti-death.\n- Single people valued a relationship much higher than those in relationships valued singlehood.\n- There was a wide range of answers for each question, but most people had similar preference orderings.\n- Utility measurement is challenging and produces confusing results.\n\nKey learnings\n- The survey provided interesting results on readers' preferences and biases.\n- Utility measurement is difficult, and determining values based on different parameters can result in different outcomes.\n\nKey questions\n- Why was there a significant last name imbalance in readers of the blog?\n- Are people really anti-death, based on the survey results?\n- Is there a bias in people's valuations of relationships and singlehood?\n- Why do people have different preference orderings, even with similar utility weights?\n- Can we trust utility measurement as a reliable and objective method of determining values?"
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Statistical Literacy Among Doctors Now Lower Than Chance",
+    "date": "December 17, 2013",
+    "links": [
+        "http://www.jgme.org/doi/pdf/10.4300/JGME-D-12-00161.1",
+        "https://slatestarcodex.com/2013/11/26/a-letter-i-will-probably-send-to-the-fda/",
+        "http://yudkowsky.net/rational/bayes",
+        "http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect"
+    ],
+    "url": "https://slatestarcodex.com/2013/12/17/statistical-literacy-among-doctors-now-lower-than-chance/",
+    "summary": "Key ideas\n- A study of 4,000 doctors showed that only 42% of Ob/Gyn residents could correctly answer a true-false question on p-values.\n- The same study showed that only 26% of doctors could answer a multiple-choice question on mammogram results, even though the question almost gave the correct answer.\n- Doctors who got the statistics questions wrong were more likely to say they had good training in statistical literacy.\n- Women rated their statistical literacy worse than men did, but did not actually do worse on the questions.\n- Only 12% of doctors got both questions correct.\n\nKey learnings\n- Doctors' statistical knowledge may not be as good as we assume.\n- Doctors who get basic statistics questions wrong may not be aware of how little they know.\n- Women may underestimate their statistical knowledge compared to men.\n- Even getting one question right may not make someone more likely to do well on the other.\n\nKey questions\n- Does this data suggest that doctors need more statistical education?\n- Is it fair to expect doctors to know more about statistics than the general population?\n- How can we ensure that doctors have the statistical knowledge they need to make informed decisions?"
+}

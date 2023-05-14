@@ -1,0 +1,18 @@
+{
+    "title": "Do Neural Nets Dream Of Electric Hobbits?",
+    "date": "February 18, 2019",
+    "links": [
+        "https://blog.openai.com/better-language-models/",
+        "https://blog.openai.com/better-language-models/#sample6",
+        "https://blog.openai.com/better-language-models/#sample5",
+        "https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/",
+        "https://slatestarcodex.com/2018/10/30/sort-by-controversial/",
+        "https://www.fil.ion.ucl.ac.uk/~karl/Virtual%20reality%20and%20consciousness%20inference%20in%20dreaming.pdf",
+        "https://directorsblog.nih.gov/2017/02/14/how-sleep-resets-the-brain/",
+        "https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/",
+        "https://en.wikipedia.org/wiki/Wake-sleep_algorithm",
+        "https://theneural.wordpress.com/2011/07/08/the-miracle-of-the-boltzmann-machine/"
+    ],
+    "url": "https://slatestarcodex.com/2019/02/18/do-neural-nets-dream-of-electric-hobbits/",
+    "summary": "Key ideas:\n- OpenAI's GPT-2 can write essays to a prompt and maintain narrative coherence but struggles with details.\n- GPT-2 uses a predictive algorithm that allows it to dream narratives similar to humans during sleep.\n- Dreams allow the brain to refine model complexity separately from model accuracy.\n- There may be various reasons why bad prediction machines sound like dreams.\n\nKey learnings:\n- GPT-2 can generate impressive results by predicting the most likely/ appropriate next word to form an entire essay.\n- The algorithm used by GPT-2 to generate its text is similar to the predictive algorithm used by the human brain.\n- The brain's predictive algorithm tries to maintain its predictive accuracy during wakefulness, and its model's simplicity during sleep.\n\nKey questions by Scott:\n- Why does GPT-2 generate narratives similar to dreams?\n- How does the brain refine model complexity separately from model accuracy?\n- What are the reasons why bad prediction machines sound like dreams?"
+}

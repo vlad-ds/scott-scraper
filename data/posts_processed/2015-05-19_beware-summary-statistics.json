@@ -1,0 +1,11 @@
+{
+    "title": "Beware Summary Statistics",
+    "date": "May 19, 2015",
+    "links": [
+        "http://law.jrank.org/pages/1363/Intelligence-Crime-Measuring-size-IQ-crime-correlation.html",
+        "http://pappubahry2.tumblr.com/",
+        "http://su3su2u1.tumblr.com/"
+    ],
+    "url": "https://slatestarcodex.com/2015/05/19/beware-summary-statistics/",
+    "summary": "Key ideas\n- IQ scores are significantly and negatively correlated with criminal offenses.\n- IQ is a strong predictive factor for criminality, but it only predicts about 3.6% of variance in crime.\n- The correlation between IQ and income suggests that it's a very minor determinant of income, but there might be very high variance within the individual deciles.\n\nKey learnings\n- Beware summary statistics and always consider the underlying data.\n- Summary statistics can be used to make things look very important or not important at all.\n- When in doubt, demand to see the scatter plot.\n\nKey questions\n- Why does the correlation between IQ and criminal offenses look strong but only predict about 3.6% of variance in crime?\n- Why does the correlation between IQ and income suggest that it's a very minor determinant of income?\n- How can there be such high variance within individual deciles when it comes to income?"
+}

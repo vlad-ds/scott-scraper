@@ -15,14 +15,22 @@ headers = {
 }
 
 
-def count_tokens(text: str,) -> int:
+def count_tokens(text: str) -> int:
+    """
+    Counts the number of OpenAI tokens in a string of text.
+    :param text:
+    :return:
+    """
     encoding = tiktoken.get_encoding("cl100k_base")
     tokens = encoding.encode(text)
     return len(tokens)
 
 
 def get_ssc_links():
-
+    """
+    Scrapes the SSC archives page for links to all posts.
+    :return:
+    """
     archives_url = "https://slatestarcodex.com/archives/"
     response = requests.get(archives_url, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -39,13 +47,22 @@ def get_ssc_links():
 
 
 def get_ssc_post(link):
+    """
+    Scrapes a single SSC post.
+    :param link:
+    :return:
+    """
     response = requests.get(link, headers=headers)
     soup = BeautifulSoup(response.content, 'html.parser')
     return soup
 
 
 def parse_ssc_post(soup):
-
+    """
+    Parses a single SSC post.
+    :param soup:
+    :return:
+    """
     title = soup.find('h1', class_='pjgm-posttitle').text.strip()
 
     postmeta = soup.find('div', class_='pjgm-postmeta')
@@ -74,6 +91,11 @@ def parse_ssc_post(soup):
 
 
 def parse_comments(soup):
+    """
+    Parses the comments section of a single SSC post.
+    :param soup:
+    :return:
+    """
     comments = []
 
     def traverse_comment_list(comment_list, depth):
@@ -100,6 +122,12 @@ def parse_comments(soup):
 
 
 def render_comments(comments: List[dict]) -> str:
+    """
+    Renders a list of comments into a single string.
+    The string is optimized to save tokens while maintaining information on comment depth.
+    :param comments:
+    :return:
+    """
     rendered = []
 
     def render_comment(comment):
@@ -115,12 +143,22 @@ def render_comments(comments: List[dict]) -> str:
 
 
 def link_to_id(link):
+    """
+    Converts a link to a post id. The id is used as a folder name.
+    :param link:
+    :return:
+    """
     post_date = "-".join(link.split('/')[3:6])
     post_name = link.split('/')[-2]
     return f"{post_date}_{post_name}"
 
 
 def extract_all_posts():
+    """
+    Extracts all posts from the SSC archives.
+    :return:
+    """
+
     # load links from json
     with open('data/ssc_links.json', 'r') as f:
         links = json.load(f)

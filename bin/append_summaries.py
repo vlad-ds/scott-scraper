@@ -5,6 +5,11 @@ from ssc_scraper import link_to_id
 
 
 def unify_consolidated_summary(link):
+    """
+    Unify the key ideas, key learnings, and key questions sections of the consolidated summary into a single file.
+    :param link:
+    :return:
+    """
     id_ = link_to_id(link)
 
     if not os.path.exists(f'data/summaries/{id_}/summary_consolidated.txt'):

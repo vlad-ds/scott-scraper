@@ -1,0 +1,15 @@
+{
+    "title": "SSC Journal Club: Dissolving The Fermi Paradox",
+    "date": "July 3, 2018",
+    "links": [
+        "https://arxiv.org/abs/1806.02404",
+        "http://aleph.se/andart2/math/uriels-stacking-problem/",
+        "https://www.reddit.com/r/slatestarcodex/comments/8qq35m/dissolving_the_fermi_paradox_anders_sandberg_eric/e0l968j/",
+        "https://xkcd.com/384/",
+        "https://www.amazon.com/Remembrance-Earths-Past-Three-Body-Trilogy-ebook/dp/B01N198VU5/ref=as_li_ss_tl?ie=UTF8&qid=1529898908&sr=8-1&keywords=dark+forest+trilogy&linkCode=ll1&tag=slatestarcode-20&linkId=da6510dcbc838466e88fb50fb0e9728d",
+        "https://slatestarcodex.com/2014/05/28/dont-fear-the-filter/",
+        "https://www.lesswrong.com/posts/vhNrdwidSBEkrPwEo/why-it-took-so-long-to-do-the-fermi-calculation-right"
+    ],
+    "url": "https://slatestarcodex.com/2018/07/03/ssc-journal-club-dissolving-the-fermi-paradox/",
+    "summary": "Key ideas:\n- Fermi Paradox asks why we see no evidence of alien civilizations despite the vastness of the universe\n- Drake Equation calculates the probability of alien civilizations existing\n- SDO's synthetic point estimate model accounts for parameter uncertainty and yields a probability of one in three for the existence of alien civilizations in our galaxy\n- \"Alternative genetic systems\" could hinder the development of complex life on other planets\n\nKey learnings:\n- Relying solely on the mean of a probability distribution can be misleading\n- What we're interested in is the distribution of probability over the number of alien civilizations\n- The Drake Equation may not take into account parameter uncertainty\n\nKey questions:\n- Should we be relying on the Drake Equation to calculate the probability of alien civilizations existing?\n- What are \"alternative genetic systems\" and how could they impact the development of life on other planets?\n- Why did it take so long for someone to realize that the mean of the probability distribution isn't enough to draw conclusions about alien life?"
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Magic Markers",
+    "date": "August 31, 2015",
+    "links": [
+        "http://prophecyformula.tumblr.com/",
+        "http://www.nature.com/mp/journal/vaop/ncurrent/full/mp2015112a.html",
+        "http://www.popsci.com/blood-test-predicts-whether-patient-will-have-suicidal-thoughts",
+        "http://www.pbs.org/wgbh/nova/next/body/new-blood-test-predicts-future-suicide-attempts/",
+        "http://blogs.plos.org/mindthebrain/2014/09/25/critique-claims-blood-test-depression/",
+        "https://peerj.com/articles/1071/",
+        "http://www.researchgate.net/profile/Hilario_Blasco-Fontecilla/publication/225085960_Personality_Disorder_Assessments_in_Acute_Depressive_Episodes_Stability_at_Follow-Up/links/0fcfd506bea30161d3000000.pdf",
+        "http://www.nature.com/mp/journal/vaop/ncurrent/fig_tab/mp2015112t5.html#figure-title",
+        "http://www2.psych.ubc.ca/~schaller/Psyc590Readings/Tesser1993.pdf"
+    ],
+    "url": "https://slatestarcodex.com/2015/08/31/magic-markers/",
+    "summary": "Key ideas\n- Niculescu et al claims to have found that biomarkers predict suicide risk with 92% accuracy.\n- The study combines clinical prediction instruments with eleven biomarkers to achieve this accuracy, but the author is skeptical.\n- The biomarkers only succeed in predicting bipolar ideation but with an AUC of 0.75, while the clinical instruments have nearly as much predictive power.\n- A blood test for suicide will never be 100% accurate because suicide is not purely biological.\n\nKey learnings\n- A study claiming to identify biomarkers that can predict suicide risk with 92% accuracy is not as effective as it appears.\n- Clinical prediction instruments are almost as effective, and the study does not provide evidence that the biomarkers help in predicting risk beyond the performance of these instruments.\n- Suicide risk is not purely biological; it is influenced by numerous factors including daily circumstances, making it unlikely that a blood test for suicide will ever be 100% accurate.\n\nKey questions\n- Are the claims that biomarkers predict suicide risk with 92% accuracy correct?\n- Do the biomarkers add any predictive value beyond the clinical prediction instruments?\n- What are the limitations of a blood test for suicide, and why is it unlikely to be 100% accurate?"
+}
