@@ -7,7 +7,7 @@ This was done very quickly and most of the code was written by ChatGPT and Copil
 The sequence is roughly the following: 
 
 1. Scrape the posts and put them in data/posts
-2. Do one ChatGPT API pass to chunk each post and generate 1+ summaries
+2. Do one ChatGPT API pass to chunk each post and generate 1 or more summaries
 3. Find posts which have been chunked and consolidate their summaries. I found it best to simply append the summaries together.
 4. In data/posts_processed, add each post as a JSON with its summary.
 5. Generate an epub with the post JSONs. 
