@@ -1,6 +1,6 @@
 # Summarizing Slate Star Codex
 
-I am sharing the code I used for summarizing SSC as explained in [this post](https://aiprimer.substack.com/p/summarizing-slate-star-codex-a-25). The code is in the form of a Jupyter notebook. You can run it on Google Colab or locally.
+I am sharing the code I used for summarizing SSC as explained in [this post](https://aiprimer.substack.com/p/summarizing-slate-star-codex-a-25).
 
 This was done very quickly and most of the code was written by ChatGPT and Copilot.
 
